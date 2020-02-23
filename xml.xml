@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="XSLT1.xslt"?>
+<?xml-stylesheet type="text/xsl" href="XSLT2.xslt"?>
+<!DOCTYPE Adresar SYSTEM "dtd.dtd">
+<Adresar>
+  <Osoba id="MJ56545">
+    <PunoIme>
+      <Ime>Milan</Ime>
+      <SrednjeIme></SrednjeIme>
+      <Prezime>Jevtic</Prezime>
+    </PunoIme>
+    <DatumRodjenja>
+      <Dan>29.</Dan>
+      <Mesec>07.</Mesec>
+      <Godina>1997.</Godina>
+    </DatumRodjenja>
+    <Adresa tip="stalna">
+      <ulica>Mickijeviceva</ulica>
+      <Broj>2</Broj>
+      <Grad>Beograd</Grad>
+      <Drzava>Srbija</Drzava>
+    </Adresa>
+    <Telefon tip="mobilni">063/546-585</Telefon>
+    <Email tip="privatni">milanmilan@gmail.com</Email>
+  </Osoba>
+
+  <Osoba id="IS12352">
+    <PunoIme>
+      <Ime>Igor</Ime>
+      <SrednjeIme>Igi</SrednjeIme>
+      <Prezime>Simic</Prezime>
+    </PunoIme>
+    <DatumRodjenja>
+      <Dan>20.</Dan>
+      <Mesec>12.</Mesec>
+      <Godina>1990.</Godina>
+    </DatumRodjenja>
+    <Adresa tip="stalna">
+      <ulica>Jelezovacka</ulica>
+      <Broj>15</Broj>
+      <Grad>Beograd</Grad>
+      <Drzava>Srbija</Drzava>
+    </Adresa>
+    <Telefon tip="mobilni">063/539-115</Telefon>
+    <Email tip="privatni">igorigor@gmail.com</Email>
+    <Email tip="sluzbeni">igiigi11@gmail.com</Email>
+  </Osoba>
+
+  <Osoba id="JP79785">
+    <PunoIme>
+      <Ime>Jelena</Ime>
+      <SrednjeIme></SrednjeIme>
+      <Prezime>Popovic</Prezime>
+    </PunoIme>
+    <DatumRodjenja>
+      <Dan>13.</Dan>
+      <Mesec>11.</Mesec>
+      <Godina>1988.</Godina>
+    </DatumRodjenja>
+    <Adresa tip="stalna">
+      <ulica>Bircaninova</ulica>
+      <Broj>21</Broj>
+      <Grad>Beograd</Grad>
+      <Drzava>Srbija</Drzava>
+    </Adresa>
+    <Telefon tip="mobilni">060/666-135</Telefon>
+    <Email tip="privatni">jelenajelena@.com</Email>
+  </Osoba>
+
+  <Kompanija id="D156564">
+    <Naziv>Delta</Naziv>
+    <Adresa tip="stalna">
+      <Ulica>Jedrenska</Ulica>
+      <Broj>45</Broj>
+      <Grad>Beograd</Grad>
+      <Drzava>Srbija</Drzava>
+    </Adresa>
+    <Telefon tip="mobilni">065/555-666</Telefon>
+    <Email tip="sluzbeni">deltadelta@gmail.com</Email>
+  </Kompanija>
+
+  <Kompanija id="A156564">
+    <Naziv>Alfa</Naziv>
+    <Adresa tip="stalna">
+      <Ulica>Igmanska</Ulica>
+      <Broj>69</Broj>
+      <Grad>Beograd</Grad>
+      <Drzava>Srbija</Drzava>
+    </Adresa>
+    <Telefon tip="mobilni">065/565-778</Telefon>
+    <Email tip="sluzbeni">alfaalfa@gmail.com</Email>
+  </Kompanija>
+
+  <Kompanija id="O156564">
+    <Naziv>Omega</Naziv>
+    <Adresa tip="stalna">
+      <Ulica>Strumiceva</Ulica>
+      <Broj>6</Broj>
+      <Grad>Beograd</Grad>
+      <Drzava>Srbija</Drzava>
+    </Adresa>
+    <Telefon tip="mobilni">061/555-333</Telefon>
+    <Telefon tip="fiksni">011-564-969</Telefon>
+    <Email tip="sluzbeni">omegaomega@gmail.com</Email>
+  </Kompanija>
+  
+  
+</Adresar>
